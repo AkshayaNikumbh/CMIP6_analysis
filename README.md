@@ -1,2 +1,3 @@
 # CMIP6_analysis
-CMIP6  analysis using PANGEO
+1. Understand the CMIP scenarios using a simple emission-based [FaiR model](https://fair.readthedocs.io/en/latest/) and easy exercises using monthly datasets
+
